@@ -1,0 +1,59 @@
+body{
+  background-color: white;
+}
+.top{
+  width: 100%;
+  height: 50px;
+  background-color: red;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 0;
+}
+.colorselect{
+  border: none;
+  border-radius: 40px;
+  width: 65px;
+  text-align: center;
+  height: 25px;
+  background-color: blue;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+.heightwidth{
+  background-color: white;
+  width: 290px;
+  height: 300px;
+  box-shadow: 1px 3px 7px;
+}
+.btn{
+  height: 27px;
+  width: 80px;
+  border-radius: 30px;
+  border: none;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+.btn:hover{
+  background-color: black;
+}
+.report{
+  background-color: white;
+  width: 290px;
+  height: 300px;
+  box-shadow: 1px 3px 7px;
+}
+.easyman{
+  background-color: white;
+  width: 290px;
+  height: 300px;
+  box-shadow: 1px 3px 7px;
+}
