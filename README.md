@@ -1,1 +1,1 @@
-# plugin.heptechfighterpid.github.io
+# plugin
