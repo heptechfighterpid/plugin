@@ -45,7 +45,7 @@ body{
 .btn:hover{
   background-color: black;
 }
-.report{
+.app{
   background-color: white;
   width: 290px;
   height: 300px;
@@ -56,4 +56,22 @@ body{
   width: 290px;
   height: 300px;
   box-shadow: 1px 3px 7px;
+}
+#src{
+  width: 240px;
+  height: 30px;
+}
+#upload{
+  background-color: blue;
+  color: white;
+  border: none;
+  font-weight: bold;
+  width: 290px;
+  height: 40px;
+  border-radius: 30px;
+}
+#upload:hover{
+  background-color: black;
+  letter-spacing: 3px;
+  box-shadow: 5px 5px 10px black;
 }
